@@ -1,0 +1,8 @@
+Zelos
+Dark Ritual: Creates an area damage zone that lasts 6s and is 3 tiles wide. Enemies standing inside the zone take 30/40/50% of ATK as damage every 0.5s, and have their movement speed and attack speed reduced by 25/50/75%.
+Cooldown reduction: Each unique enemy affected by the skill reduces the skill’s cooldown by 1s (counted once per enemy, not per damage tick).
+Cooldown: 32s
+
+Arryn
+Arryn fires an ice arrow that deals AoE damage in a 2 / 2.5 / 3-tile radius. Damage is 125% / 175% / 225% of ATK. Enemies hit are frozen for 3s (bosses: 0.3s).
+Cooldown: 20s
