@@ -4,10 +4,10 @@
 **Highlights:** Weighted roulette economy (15 outcomes), event-driven UI/gameplay (Observer), pooling for 60 FPS mobile, Strategy-based skills.
 
 ## Demo
-- Roulette → reward: (gif/video)
-- Merge/place-down UI: (gif/video)
-- Skills + status effects: (gif/video)
-- Stress wave performance (pooling): (gif/video)
+- Roulette → reward: (gif/video) - in gameplay, will extract later
+- Merge/place-down UI: (gif/video) - in gameplay, will extract later
+- Skills + status effects: (gif/video) - uploaded
+- Stress wave performance (pooling): (gif/video) - uploaded
 
 ## What I built
 - Weighted drop table roulette: outcomes, pack variants (3/4/5/6), mixed bundles
@@ -27,5 +27,10 @@
 ## Disclaimer
 This repo does not contain proprietary Zitga code/assets. Code is clean-room reimplementation for portfolio purposes.
 
-## Link
-https://medal.tv/games/screen-capture/clips/lVivD0zk2q_8Pu2ku?invite=cr-MSwzU0ksMjk1MzYxNjUz&v=166
+
+## Demos (Gameplay Videos)
+- **Feature Demo** — roulette outcomes, tower merge, UI flows, skills/status effects  
+  https://medal.tv/games/screen-capture/clips/lViBqVWreXUYhqfAn?invite=cr-MSxrZTUsMjk1MzYxNjUz&v=74
+
+- **Gameplay Demo** — end-to-end tower defense loop (waves, placement/merge, pacing)  
+  https://medal.tv/games/screen-capture/clips/lVivD0zk2q_8Pu2ku?invite=cr-MSwzU0ksMjk1MzYxNjUz&v=166
