@@ -6,3 +6,20 @@ Cooldown: 32s
 Arryn
 Arryn fires an ice arrow that deals AoE damage in a 2 / 2.5 / 3-tile radius. Damage is 125% / 175% / 225% of ATK. Enemies hit are frozen for 3s (bosses: 0.3s).
 Cooldown: 20s
+
+Miria: 
+Enters a channeling state (casts the skill and does not perform basic attacks). She fires magma pellets (small fire rocks with a trail) toward all enemies within her attack range, launching a total of 3 pellets over 1 second. Each pellet deals 50% / 75% / 100% of ATK as damage.
+Cooldown: 15s
+
+Lyna:
+Lyna cast a spell that increase all allies hero/ tower/ unit 15/25/35% critical chance and 30/50/70% critical damage for 5 second. 
+Cooldown: 25s
+
+Wukong:
+Wukong: Creates 2 / 3 / 4 clones of himself. Each clone has basic stats equal to 50% / 70% / 90% of Wukong’s stats. Clones last 10s and cannot be attacked. 
+Cooldown: 25s.
+Spawn behavior:
+Clones spawn within the tower’s attack area.
+They spawn on tiles that enemies are moving through (enemy path tiles).
+Clones use ranged basic attacks.
+Each tile can spawn a maximum of 2 clones.
