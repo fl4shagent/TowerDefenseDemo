@@ -4,10 +4,10 @@
 **Highlights:** Weighted roulette economy (15 outcomes), event-driven UI/gameplay (Observer), pooling for 60 FPS mobile, Strategy-based skills.
 
 ## Demo
-- Roulette → reward: (gif/video) - in gameplay, will extract later
-- Merge/place-down UI: (gif/video) - in gameplay, will extract later
-- Skills + status effects: (gif/video) - uploaded
-- Stress wave performance (pooling): (gif/video) - uploaded
+- Roulette → reward: (gif/video) 
+- Merge/place-down UI: (gif/video) 
+- Skills + status effects: (gif/video) 
+- Stress wave performance (pooling): (gif/video) - need to be extracted
 
 ## What I built
 - Weighted drop table roulette: outcomes, pack variants (3/4/5/6), mixed bundles
@@ -16,7 +16,7 @@
 - Object pooling: enemies, projectiles, VFX (mobile 60 FPS target)
 
 ## Data / Analytics
-- Drop-rate validation: Monte Carlo simulation vs expected probabilities
+- Drop-rate validation: Monte Carlo simulation vs expected probabilities - need to be extracted
 - Notes on balancing: expected value, economy sinks/sources, tuning approach
 - (Planned) A/B testing plan: metrics + guardrails
 
