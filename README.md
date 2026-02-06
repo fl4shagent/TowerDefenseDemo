@@ -1,12 +1,20 @@
 
 # Tower Master – Systems + Analytics Demo (Unity/C#)
+Download Link - https://play.google.com/store/apps/details?id=com.thp022.empire.tower.defense.casual.td
 
 **Highlights:** Weighted roulette economy (15 outcomes), event-driven UI/gameplay (Observer), pooling for 60 FPS mobile, Strategy-based skills.
 
 ## Demo
 - Roulette → reward: (gif/video) 
+![Demo Roullete](demo_roullete.gif)
 - Merge/place-down UI: (gif/video) 
 - Skills + status effects: (gif/video) 
+(![Demo Skill Arryn](demo_skill_arryn.gif))
+(![Demo Skill Lyna](demo_skill_lyna_cut.gif))
+(![Demo Skill Wukong](demo_skill_wukong_cut.gif))
+(![Demo Skill Zelos](demo_skill_zelos.gif))
+(![Demo Skill Miria](demo_skill_miria_cut.gif))
+
 - Stress wave performance (pooling): (gif/video) - need to be extracted
 
 ## What I built
@@ -30,7 +38,6 @@ This repo does not contain proprietary Zitga code/assets. Code is clean-room rei
 
 ## Demos (Gameplay Videos)
 - **Feature Demo** — roulette outcomes, tower merge, UI flows, skills/status effects  
-  https://medal.tv/games/screen-capture/clips/lViBqVWreXUYhqfAn?invite=cr-MSxrZTUsMjk1MzYxNjUz&v=74
+[(Game Demo)](https://youtu.be/5QYZQ8yh638)
 
-- **Gameplay Demo** — end-to-end tower defense loop (waves, placement/merge, pacing)  
-  https://medal.tv/games/screen-capture/clips/lVivD0zk2q_8Pu2ku?invite=cr-MSwzU0ksMjk1MzYxNjUz&v=166
+
