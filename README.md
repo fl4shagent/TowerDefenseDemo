@@ -24,7 +24,7 @@ Download Link - https://play.google.com/store/apps/details?id=com.thp022.empire.
 - Object pooling: enemies, projectiles, VFX (mobile 60 FPS target)
 
 ## Data / Analytics
-- Drop-rate validation: Monte Carlo simulation vs expected probabilities - need to be extracted
+- Drop-rate validation: Monte Carlo simulation vs expected probabilities - ([Verified 100k runs](Roulette_MonteCarlo_100000.csv))
 - Notes on balancing: expected value, economy sinks/sources, tuning approach
 - (Planned) A/B testing plan: metrics + guardrails
 
@@ -39,5 +39,6 @@ This repo does not contain proprietary Zitga code/assets. Code is clean-room rei
 ## Demos (Gameplay Videos)
 - **Feature Demo** — roulette outcomes, tower merge, UI flows, skills/status effects  
 [(Game Demo)](https://youtu.be/5QYZQ8yh638)
+![Game Statistics](statistics.PNG)
 
 
